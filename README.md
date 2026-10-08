@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
