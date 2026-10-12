@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0338-counting-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
