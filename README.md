@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
