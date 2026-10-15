@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -96,8 +99,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
