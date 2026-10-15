@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0038-count-and-say) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
