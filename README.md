@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
