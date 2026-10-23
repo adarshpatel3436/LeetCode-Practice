@@ -8,7 +8,7 @@ class Solution {
 
     public String intToRoman(int num) {
 
-        String res = "";
+        StringBuilder res = new StringBuilder();
 
         for(int i = 0; i < 13; i++){
             if(num == 0){
@@ -18,11 +18,11 @@ class Solution {
             int times = num / val[i];
             
             while(times-- > 0){
-                res += symbol[i];
+                res.append(symbol[i]);
             }
 
             num = num % val[i];
         }
-        return res;
+        return res.toString();
     }
 }
