@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2747-count-zero-request-servers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
