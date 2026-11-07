@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2235-add-two-integers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
