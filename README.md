@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
