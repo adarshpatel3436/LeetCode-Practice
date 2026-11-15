@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0338-counting-bits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
