@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
