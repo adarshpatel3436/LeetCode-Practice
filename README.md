@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Prefix Sum
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshpatel3436/LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
